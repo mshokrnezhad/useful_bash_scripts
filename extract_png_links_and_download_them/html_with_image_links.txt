@@ -1,0 +1,994 @@
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Abaddon_minimap_icon.png/revision/latest?cb=20130710224841" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Abaddon_minimap_icon.png/revision/latest?cb=20130710224841" decoding="async" loading="lazy" width="120" height="120" data-image-name="Abaddon minimap icon.png" data-image-key="Abaddon_minimap_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Abaddon_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Abaddon minimap icon.png">Abaddon minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Alchemist_minimap_icon.png/revision/latest?cb=20120717000914" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Alchemist_minimap_icon.png/revision/latest?cb=20120717000914" decoding="async" loading="lazy" width="120" height="120" data-image-name="Alchemist minimap icon.png" data-image-key="Alchemist_minimap_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Alchemist_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Alchemist minimap icon.png">Alchemist minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Ancient_Apparition_minimap_icon.png/revision/latest?cb=20120717000915" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Ancient_Apparition_minimap_icon.png/revision/latest?cb=20120717000915" decoding="async" loading="lazy" width="120" height="120" data-image-name="Ancient Apparition minimap icon.png" data-image-key="Ancient_Apparition_minimap_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Ancient_Apparition_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Ancient Apparition minimap icon.png">Ancient Apparition minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Anti-Mage_minimap_icon.png/revision/latest?cb=20120717000916" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Anti-Mage_minimap_icon.png/revision/latest?cb=20120717000916" decoding="async" loading="lazy" width="120" height="120" data-image-name="Anti-Mage minimap icon.png" data-image-key="Anti-Mage_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Anti-Mage_minimap_icon.png/revision/latest?cb=20120717000916" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Anti-Mage_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Anti-Mage minimap icon.png">Anti-Mage minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e9/Arc_Warden_minimap_icon.png/revision/latest?cb=20151216031843" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e9/Arc_Warden_minimap_icon.png/revision/latest?cb=20151216031843" decoding="async" loading="lazy" width="120" height="120" data-image-name="Arc Warden minimap icon.png" data-image-key="Arc_Warden_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e9/Arc_Warden_minimap_icon.png/revision/latest?cb=20151216031843" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Arc_Warden_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Arc Warden minimap icon.png">Arc Warden minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Axe_minimap_icon.png/revision/latest?cb=20131205032052" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Axe_minimap_icon.png/revision/latest?cb=20131205032052" decoding="async" loading="lazy" width="120" height="120" data-image-name="Axe minimap icon.png" data-image-key="Axe_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f7/Axe_minimap_icon.png/revision/latest?cb=20131205032052" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Axe_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Axe minimap icon.png">Axe minimap icon.png</a>
+30 × 30; 4 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Bane_minimap_icon.png/revision/latest?cb=20120717000917" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Bane_minimap_icon.png/revision/latest?cb=20120717000917" decoding="async" loading="lazy" width="120" height="120" data-image-name="Bane minimap icon.png" data-image-key="Bane_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Bane_minimap_icon.png/revision/latest?cb=20120717000917" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Bane_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Bane minimap icon.png">Bane minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Batrider_minimap_icon.png/revision/latest?cb=20120717000918" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Batrider_minimap_icon.png/revision/latest?cb=20120717000918" decoding="async" loading="lazy" width="120" height="120" data-image-name="Batrider minimap icon.png" data-image-key="Batrider_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Batrider_minimap_icon.png/revision/latest?cb=20120717000918" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Batrider_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Batrider minimap icon.png">Batrider minimap icon.png</a>
+32 × 32; 1 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Beastmaster_minimap_icon.png/revision/latest?cb=20120717000918" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Beastmaster_minimap_icon.png/revision/latest?cb=20120717000918" decoding="async" loading="lazy" width="120" height="120" data-image-name="Beastmaster minimap icon.png" data-image-key="Beastmaster_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Beastmaster_minimap_icon.png/revision/latest?cb=20120717000918" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Beastmaster_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Beastmaster minimap icon.png">Beastmaster minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Bloodseeker_minimap_icon.png/revision/latest?cb=20120717000919" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Bloodseeker_minimap_icon.png/revision/latest?cb=20120717000919" decoding="async" loading="lazy" width="120" height="120" data-image-name="Bloodseeker minimap icon.png" data-image-key="Bloodseeker_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Bloodseeker_minimap_icon.png/revision/latest?cb=20120717000919" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Bloodseeker_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Bloodseeker minimap icon.png">Bloodseeker minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Bounty_Hunter_minimap_icon.png/revision/latest?cb=20120725223337" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Bounty_Hunter_minimap_icon.png/revision/latest?cb=20120725223337" decoding="async" loading="lazy" width="120" height="120" data-image-name="Bounty Hunter minimap icon.png" data-image-key="Bounty_Hunter_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Bounty_Hunter_minimap_icon.png/revision/latest?cb=20120725223337" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Bounty_Hunter_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Bounty Hunter minimap icon.png">Bounty Hunter minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Brewmaster_minimap_icon.png/revision/latest?cb=20120717000923" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Brewmaster_minimap_icon.png/revision/latest?cb=20120717000923" decoding="async" loading="lazy" width="120" height="120" data-image-name="Brewmaster minimap icon.png" data-image-key="Brewmaster_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Brewmaster_minimap_icon.png/revision/latest?cb=20120717000923" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Brewmaster_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Brewmaster minimap icon.png">Brewmaster minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Bristleback_minimap_icon.png/revision/latest?cb=20130329040753" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Bristleback_minimap_icon.png/revision/latest?cb=20130329040753" decoding="async" loading="lazy" width="120" height="120" data-image-name="Bristleback minimap icon.png" data-image-key="Bristleback_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Bristleback_minimap_icon.png/revision/latest?cb=20130329040753" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Bristleback_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Bristleback minimap icon.png">Bristleback minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Broodmother_minimap_icon.png/revision/latest?cb=20160623015150" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Broodmother_minimap_icon.png/revision/latest?cb=20160623015150" decoding="async" loading="lazy" width="120" height="120" data-image-name="Broodmother minimap icon.png" data-image-key="Broodmother_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Broodmother_minimap_icon.png/revision/latest?cb=20160623015150" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Broodmother_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Broodmother minimap icon.png">Broodmother minimap icon.png</a>
+32 × 32; 3 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Centaur_Warrunner_minimap_icon.png/revision/latest?cb=20121025073313" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Centaur_Warrunner_minimap_icon.png/revision/latest?cb=20121025073313" decoding="async" loading="lazy" width="120" height="120" data-image-name="Centaur Warrunner minimap icon.png" data-image-key="Centaur_Warrunner_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Centaur_Warrunner_minimap_icon.png/revision/latest?cb=20121025073313" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Centaur_Warrunner_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Centaur Warrunner minimap icon.png">Centaur Warrunner minimap icon.png</a>
+32 × 32; 4 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Chaos_Knight_minimap_icon.png/revision/latest?cb=20120717000925" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Chaos_Knight_minimap_icon.png/revision/latest?cb=20120717000925" decoding="async" loading="lazy" width="120" height="120" data-image-name="Chaos Knight minimap icon.png" data-image-key="Chaos_Knight_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Chaos_Knight_minimap_icon.png/revision/latest?cb=20120717000925" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Chaos_Knight_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Chaos Knight minimap icon.png">Chaos Knight minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Chen_minimap_icon.png/revision/latest?cb=20120717000925" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Chen_minimap_icon.png/revision/latest?cb=20120717000925" decoding="async" loading="lazy" width="120" height="120" data-image-name="Chen minimap icon.png" data-image-key="Chen_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Chen_minimap_icon.png/revision/latest?cb=20120717000925" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Chen_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Chen minimap icon.png">Chen minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Clinkz_minimap_icon.png/revision/latest?cb=20120717000926" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Clinkz_minimap_icon.png/revision/latest?cb=20120717000926" decoding="async" loading="lazy" width="120" height="120" data-image-name="Clinkz minimap icon.png" data-image-key="Clinkz_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Clinkz_minimap_icon.png/revision/latest?cb=20120717000926" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Clinkz_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Clinkz minimap icon.png">Clinkz minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Clockwerk_minimap_icon.png/revision/latest?cb=20120717000927" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Clockwerk_minimap_icon.png/revision/latest?cb=20120717000927" decoding="async" loading="lazy" width="120" height="120" data-image-name="Clockwerk minimap icon.png" data-image-key="Clockwerk_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Clockwerk_minimap_icon.png/revision/latest?cb=20120717000927" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Clockwerk_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Clockwerk minimap icon.png">Clockwerk minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Crystal_Maiden_minimap_icon.png/revision/latest?cb=20120717000928" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Crystal_Maiden_minimap_icon.png/revision/latest?cb=20120717000928" decoding="async" loading="lazy" width="120" height="120" data-image-name="Crystal Maiden minimap icon.png" data-image-key="Crystal_Maiden_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Crystal_Maiden_minimap_icon.png/revision/latest?cb=20120717000928" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Crystal_Maiden_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Crystal Maiden minimap icon.png">Crystal Maiden minimap icon.png</a>
+32 × 32; 3 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Dark_Seer_minimap_icon.png/revision/latest?cb=20120717000928" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Dark_Seer_minimap_icon.png/revision/latest?cb=20120717000928" decoding="async" loading="lazy" width="120" height="120" data-image-name="Dark Seer minimap icon.png" data-image-key="Dark_Seer_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Dark_Seer_minimap_icon.png/revision/latest?cb=20120717000928" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Dark_Seer_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Dark Seer minimap icon.png">Dark Seer minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Dark_Willow_minimap_icon.png/revision/latest?cb=20171030204551" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Dark_Willow_minimap_icon.png/revision/latest?cb=20171030204551" decoding="async" loading="lazy" width="120" height="120" data-image-name="Dark Willow minimap icon.png" data-image-key="Dark_Willow_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Dark_Willow_minimap_icon.png/revision/latest?cb=20171030204551" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Dark_Willow_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Dark Willow minimap icon.png">Dark Willow minimap icon.png</a>
+32 × 32; 829 bytes<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Dawnbreaker_minimap_icon.png/revision/latest?cb=20210410124514" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Dawnbreaker_minimap_icon.png/revision/latest?cb=20210410124514" decoding="async" loading="lazy" width="120" height="120" data-image-name="Dawnbreaker minimap icon.png" data-image-key="Dawnbreaker_minimap_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Dawnbreaker_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Dawnbreaker minimap icon.png">Dawnbreaker minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Dazzle_minimap_icon.png/revision/latest?cb=20131205032222" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Dazzle_minimap_icon.png/revision/latest?cb=20131205032222" decoding="async" loading="lazy" width="120" height="120" data-image-name="Dazzle minimap icon.png" data-image-key="Dazzle_minimap_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Dazzle_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Dazzle minimap icon.png">Dazzle minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Death_Prophet_minimap_icon.png/revision/latest?cb=20121207012909" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Death_Prophet_minimap_icon.png/revision/latest?cb=20121207012909" decoding="async" loading="lazy" width="112" height="120" data-image-name="Death Prophet minimap icon.png" data-image-key="Death_Prophet_minimap_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Death_Prophet_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Death Prophet minimap icon.png">Death Prophet minimap icon.png</a>
+30 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Disruptor_minimap_icon.png/revision/latest?cb=20120717000931" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Disruptor_minimap_icon.png/revision/latest?cb=20120717000931" decoding="async" loading="lazy" width="120" height="120" data-image-name="Disruptor minimap icon.png" data-image-key="Disruptor_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Disruptor_minimap_icon.png/revision/latest?cb=20120717000931" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Disruptor_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Disruptor minimap icon.png">Disruptor minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Doom_minimap_icon.png/revision/latest?cb=20130110213730" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Doom_minimap_icon.png/revision/latest?cb=20130110213730" decoding="async" loading="lazy" width="120" height="120" data-image-name="Doom minimap icon.png" data-image-key="Doom_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Doom_minimap_icon.png/revision/latest?cb=20130110213730" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Doom_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Doom minimap icon.png">Doom minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Dragon_Knight_minimap_icon.png/revision/latest?cb=20120717000933" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Dragon_Knight_minimap_icon.png/revision/latest?cb=20120717000933" decoding="async" loading="lazy" width="120" height="120" data-image-name="Dragon Knight minimap icon.png" data-image-key="Dragon_Knight_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Dragon_Knight_minimap_icon.png/revision/latest?cb=20120717000933" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Dragon_Knight_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Dragon Knight minimap icon.png">Dragon Knight minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Drow_Ranger_minimap_icon.png/revision/latest?cb=20120717000933" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Drow_Ranger_minimap_icon.png/revision/latest?cb=20120717000933" decoding="async" loading="lazy" width="120" height="120" data-image-name="Drow Ranger minimap icon.png" data-image-key="Drow_Ranger_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Drow_Ranger_minimap_icon.png/revision/latest?cb=20120717000933" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Drow_Ranger_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Drow Ranger minimap icon.png">Drow Ranger minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Earth_Spirit_minimap_icon.png/revision/latest?cb=20131115075911" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Earth_Spirit_minimap_icon.png/revision/latest?cb=20131115075911" decoding="async" loading="lazy" width="120" height="120" data-image-name="Earth Spirit minimap icon.png" data-image-key="Earth_Spirit_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Earth_Spirit_minimap_icon.png/revision/latest?cb=20131115075911" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Earth_Spirit_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Earth Spirit minimap icon.png">Earth Spirit minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Earthshaker_minimap_icon.png/revision/latest?cb=20120717000934" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Earthshaker_minimap_icon.png/revision/latest?cb=20120717000934" decoding="async" loading="lazy" width="120" height="120" data-image-name="Earthshaker minimap icon.png" data-image-key="Earthshaker_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Earthshaker_minimap_icon.png/revision/latest?cb=20120717000934" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Earthshaker_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Earthshaker minimap icon.png">Earthshaker minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Elder_Titan_minimap_icon.png/revision/latest?cb=20130501215254" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Elder_Titan_minimap_icon.png/revision/latest?cb=20130501215254" decoding="async" loading="lazy" width="120" height="120" data-image-name="Elder Titan minimap icon.png" data-image-key="Elder_Titan_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Elder_Titan_minimap_icon.png/revision/latest?cb=20130501215254" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Elder_Titan_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Elder Titan minimap icon.png">Elder Titan minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Ember_Spirit_minimap_icon.png/revision/latest?cb=20131114151731" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Ember_Spirit_minimap_icon.png/revision/latest?cb=20131114151731" decoding="async" loading="lazy" width="120" height="120" data-image-name="Ember Spirit minimap icon.png" data-image-key="Ember_Spirit_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Ember_Spirit_minimap_icon.png/revision/latest?cb=20131114151731" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Ember_Spirit_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Ember Spirit minimap icon.png">Ember Spirit minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Enchantress_minimap_icon.png/revision/latest?cb=20120717000935" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Enchantress_minimap_icon.png/revision/latest?cb=20120717000935" decoding="async" loading="lazy" width="120" height="120" data-image-name="Enchantress minimap icon.png" data-image-key="Enchantress_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Enchantress_minimap_icon.png/revision/latest?cb=20120717000935" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Enchantress_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Enchantress minimap icon.png">Enchantress minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Enigma_minimap_icon.png/revision/latest?cb=20120717000935" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Enigma_minimap_icon.png/revision/latest?cb=20120717000935" decoding="async" loading="lazy" width="120" height="120" data-image-name="Enigma minimap icon.png" data-image-key="Enigma_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Enigma_minimap_icon.png/revision/latest?cb=20120717000935" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Enigma_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Enigma minimap icon.png">Enigma minimap icon.png</a>
+32 × 32; 1 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Faceless_Void_minimap_icon.png/revision/latest?cb=20150321000709" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Faceless_Void_minimap_icon.png/revision/latest?cb=20150321000709" decoding="async" loading="lazy" width="120" height="120" data-image-name="Faceless Void minimap icon.png" data-image-key="Faceless_Void_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Faceless_Void_minimap_icon.png/revision/latest?cb=20150321000709" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Faceless_Void_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Faceless Void minimap icon.png">Faceless Void minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Grimstroke_minimap_icon.png/revision/latest?cb=20180825050619" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Grimstroke_minimap_icon.png/revision/latest?cb=20180825050619" decoding="async" loading="lazy" width="120" height="120" data-image-name="Grimstroke minimap icon.png" data-image-key="Grimstroke_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Grimstroke_minimap_icon.png/revision/latest?cb=20180825050619" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Grimstroke_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Grimstroke minimap icon.png">Grimstroke minimap icon.png</a>
+32 × 32; 964 bytes<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Gyrocopter_minimap_icon.png/revision/latest?cb=20120717000937" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Gyrocopter_minimap_icon.png/revision/latest?cb=20120717000937" decoding="async" loading="lazy" width="120" height="120" data-image-name="Gyrocopter minimap icon.png" data-image-key="Gyrocopter_minimap_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Gyrocopter_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Gyrocopter minimap icon.png">Gyrocopter minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Hoodwink_minimap_icon.png/revision/latest?cb=20201217233800" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Hoodwink_minimap_icon.png/revision/latest?cb=20201217233800" decoding="async" loading="lazy" width="120" height="120" data-image-name="Hoodwink minimap icon.png" data-image-key="Hoodwink_minimap_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Hoodwink_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Hoodwink minimap icon.png">Hoodwink minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Huskar_minimap_icon.png/revision/latest?cb=20120717000938" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Huskar_minimap_icon.png/revision/latest?cb=20120717000938" decoding="async" loading="lazy" width="120" height="120" data-image-name="Huskar minimap icon.png" data-image-key="Huskar_minimap_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Huskar_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Huskar minimap icon.png">Huskar minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Invoker_minimap_icon.png/revision/latest?cb=20120717000939" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Invoker_minimap_icon.png/revision/latest?cb=20120717000939" decoding="async" loading="lazy" width="120" height="120" data-image-name="Invoker minimap icon.png" data-image-key="Invoker_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Invoker_minimap_icon.png/revision/latest?cb=20120717000939" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Invoker_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Invoker minimap icon.png">Invoker minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Io_minimap_icon.png/revision/latest?cb=20130329190258" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Io_minimap_icon.png/revision/latest?cb=20130329190258" decoding="async" loading="lazy" width="120" height="120" data-image-name="Io minimap icon.png" data-image-key="Io_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Io_minimap_icon.png/revision/latest?cb=20130329190258" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Io_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Io minimap icon.png">Io minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Jakiro_minimap_icon.png/revision/latest?cb=20120717000940" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Jakiro_minimap_icon.png/revision/latest?cb=20120717000940" decoding="async" loading="lazy" width="120" height="120" data-image-name="Jakiro minimap icon.png" data-image-key="Jakiro_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Jakiro_minimap_icon.png/revision/latest?cb=20120717000940" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Jakiro_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Jakiro minimap icon.png">Jakiro minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Juggernaut_minimap_icon.png/revision/latest?cb=20120717000940" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Juggernaut_minimap_icon.png/revision/latest?cb=20120717000940" decoding="async" loading="lazy" width="120" height="120" data-image-name="Juggernaut minimap icon.png" data-image-key="Juggernaut_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Juggernaut_minimap_icon.png/revision/latest?cb=20120717000940" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Juggernaut_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Juggernaut minimap icon.png">Juggernaut minimap icon.png</a>
+32 × 32; 1 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Keeper_of_the_Light_minimap_icon.png/revision/latest?cb=20120725222408" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Keeper_of_the_Light_minimap_icon.png/revision/latest?cb=20120725222408" decoding="async" loading="lazy" width="120" height="120" data-image-name="Keeper of the Light minimap icon.png" data-image-key="Keeper_of_the_Light_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Keeper_of_the_Light_minimap_icon.png/revision/latest?cb=20120725222408" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Keeper_of_the_Light_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Keeper of the Light minimap icon.png">Keeper of the Light minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Kunkka_minimap_icon.png/revision/latest?cb=20120717000941" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Kunkka_minimap_icon.png/revision/latest?cb=20120717000941" decoding="async" loading="lazy" width="120" height="120" data-image-name="Kunkka minimap icon.png" data-image-key="Kunkka_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Kunkka_minimap_icon.png/revision/latest?cb=20120717000941" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Kunkka_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Kunkka minimap icon.png">Kunkka minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Legion_Commander_minimap_icon.png/revision/latest?cb=20131212000908" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Legion_Commander_minimap_icon.png/revision/latest?cb=20131212000908" decoding="async" loading="lazy" width="120" height="120" data-image-name="Legion Commander minimap icon.png" data-image-key="Legion_Commander_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Legion_Commander_minimap_icon.png/revision/latest?cb=20131212000908" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Legion_Commander_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Legion Commander minimap icon.png">Legion Commander minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Leshrac_minimap_icon.png/revision/latest?cb=20120717000941" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Leshrac_minimap_icon.png/revision/latest?cb=20120717000941" decoding="async" loading="lazy" width="120" height="120" data-image-name="Leshrac minimap icon.png" data-image-key="Leshrac_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Leshrac_minimap_icon.png/revision/latest?cb=20120717000941" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Leshrac_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Leshrac minimap icon.png">Leshrac minimap icon.png</a>
+32 × 32; 1 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Lich_minimap_icon.png/revision/latest?cb=20120717000942" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Lich_minimap_icon.png/revision/latest?cb=20120717000942" decoding="async" loading="lazy" width="120" height="120" data-image-name="Lich minimap icon.png" data-image-key="Lich_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Lich_minimap_icon.png/revision/latest?cb=20120717000942" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Lich_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Lich minimap icon.png">Lich minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Lifestealer_minimap_icon.png/revision/latest?cb=20120717000943" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Lifestealer_minimap_icon.png/revision/latest?cb=20120717000943" decoding="async" loading="lazy" width="120" height="120" data-image-name="Lifestealer minimap icon.png" data-image-key="Lifestealer_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Lifestealer_minimap_icon.png/revision/latest?cb=20120717000943" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Lifestealer_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Lifestealer minimap icon.png">Lifestealer minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Lina_minimap_icon.png/revision/latest?cb=20120725223234" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Lina_minimap_icon.png/revision/latest?cb=20120725223234" decoding="async" loading="lazy" width="120" height="120" data-image-name="Lina minimap icon.png" data-image-key="Lina_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Lina_minimap_icon.png/revision/latest?cb=20120725223234" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Lina_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Lina minimap icon.png">Lina minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Lion_minimap_icon.png/revision/latest?cb=20130705234838" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Lion_minimap_icon.png/revision/latest?cb=20130705234838" decoding="async" loading="lazy" width="120" height="120" data-image-name="Lion minimap icon.png" data-image-key="Lion_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Lion_minimap_icon.png/revision/latest?cb=20130705234838" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Lion_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Lion minimap icon.png">Lion minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Lone_Druid_minimap_icon.png/revision/latest?cb=20120717000946" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Lone_Druid_minimap_icon.png/revision/latest?cb=20120717000946" decoding="async" loading="lazy" width="120" height="120" data-image-name="Lone Druid minimap icon.png" data-image-key="Lone_Druid_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Lone_Druid_minimap_icon.png/revision/latest?cb=20120717000946" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Lone_Druid_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Lone Druid minimap icon.png">Lone Druid minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8c/Luna_minimap_icon.png/revision/latest?cb=20120717000947" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8c/Luna_minimap_icon.png/revision/latest?cb=20120717000947" decoding="async" loading="lazy" width="120" height="120" data-image-name="Luna minimap icon.png" data-image-key="Luna_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8c/Luna_minimap_icon.png/revision/latest?cb=20120717000947" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Luna_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Luna minimap icon.png">Luna minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Lycan_minimap_icon.png/revision/latest?cb=20120717000948" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Lycan_minimap_icon.png/revision/latest?cb=20120717000948" decoding="async" loading="lazy" width="120" height="120" data-image-name="Lycan minimap icon.png" data-image-key="Lycan_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Lycan_minimap_icon.png/revision/latest?cb=20120717000948" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Lycan_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Lycan minimap icon.png">Lycan minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Magnus_minimap_icon.png/revision/latest?cb=20121001145556" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Magnus_minimap_icon.png/revision/latest?cb=20121001145556" decoding="async" loading="lazy" width="120" height="120" data-image-name="Magnus minimap icon.png" data-image-key="Magnus_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Magnus_minimap_icon.png/revision/latest?cb=20121001145556" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Magnus_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Magnus minimap icon.png">Magnus minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/ff/Marci_minimap_icon.png/revision/latest?cb=20211029112022" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/ff/Marci_minimap_icon.png/revision/latest?cb=20211029112022" decoding="async" loading="lazy" width="120" height="120" data-image-name="Marci minimap icon.png" data-image-key="Marci_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/ff/Marci_minimap_icon.png/revision/latest?cb=20211029112022" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Marci_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Marci minimap icon.png">Marci minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Mars_minimap_icon.png/revision/latest?cb=20190305185537" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Mars_minimap_icon.png/revision/latest?cb=20190305185537" decoding="async" loading="lazy" width="120" height="120" data-image-name="Mars minimap icon.png" data-image-key="Mars_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Mars_minimap_icon.png/revision/latest?cb=20190305185537" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Mars_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Mars minimap icon.png">Mars minimap icon.png</a>
+32 × 32; 1 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Medusa_minimap_icon.png/revision/latest?cb=20130110072344" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Medusa_minimap_icon.png/revision/latest?cb=20130110072344" decoding="async" loading="lazy" width="120" height="120" data-image-name="Medusa minimap icon.png" data-image-key="Medusa_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Medusa_minimap_icon.png/revision/latest?cb=20130110072344" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Medusa_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Medusa minimap icon.png">Medusa minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Meepo_minimap_icon.png/revision/latest?cb=20120725222447" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Meepo_minimap_icon.png/revision/latest?cb=20120725222447" decoding="async" loading="lazy" width="120" height="120" data-image-name="Meepo minimap icon.png" data-image-key="Meepo_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Meepo_minimap_icon.png/revision/latest?cb=20120725222447" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Meepo_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Meepo minimap icon.png">Meepo minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Mirana_minimap_icon.png/revision/latest?cb=20120717000949" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Mirana_minimap_icon.png/revision/latest?cb=20120717000949" decoding="async" loading="lazy" width="120" height="120" data-image-name="Mirana minimap icon.png" data-image-key="Mirana_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Mirana_minimap_icon.png/revision/latest?cb=20120717000949" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Mirana_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Mirana minimap icon.png">Mirana minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Monkey_King_minimap_icon.png/revision/latest?cb=20160917095123" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Monkey_King_minimap_icon.png/revision/latest?cb=20160917095123" decoding="async" loading="lazy" width="120" height="120" data-image-name="Monkey King minimap icon.png" data-image-key="Monkey_King_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Monkey_King_minimap_icon.png/revision/latest?cb=20160917095123" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Monkey_King_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Monkey King minimap icon.png">Monkey King minimap icon.png</a>
+32 × 32; 3 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Morphling_minimap_icon.png/revision/latest?cb=20120717000949" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Morphling_minimap_icon.png/revision/latest?cb=20120717000949" decoding="async" loading="lazy" width="120" height="120" data-image-name="Morphling minimap icon.png" data-image-key="Morphling_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Morphling_minimap_icon.png/revision/latest?cb=20120717000949" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Morphling_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Morphling minimap icon.png">Morphling minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Naga_Siren_minimap_icon.png/revision/latest?cb=20120717000950" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Naga_Siren_minimap_icon.png/revision/latest?cb=20120717000950" decoding="async" loading="lazy" width="120" height="120" data-image-name="Naga Siren minimap icon.png" data-image-key="Naga_Siren_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Naga_Siren_minimap_icon.png/revision/latest?cb=20120717000950" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Naga_Siren_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Naga Siren minimap icon.png">Naga Siren minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Nature%27s_Prophet_minimap_icon.png/revision/latest?cb=20120717000951" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Nature%27s_Prophet_minimap_icon.png/revision/latest?cb=20120717000951" decoding="async" loading="lazy" width="120" height="120" data-image-name="Nature's Prophet minimap icon.png" data-image-key="Nature%27s_Prophet_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Nature%27s_Prophet_minimap_icon.png/revision/latest?cb=20120717000951" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Nature%27s_Prophet_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Nature's Prophet minimap icon.png">Nature's Prophet minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Necrophos_minimap_icon.png/revision/latest?cb=20120717000952" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Necrophos_minimap_icon.png/revision/latest?cb=20120717000952" decoding="async" loading="lazy" width="120" height="120" data-image-name="Necrophos minimap icon.png" data-image-key="Necrophos_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Necrophos_minimap_icon.png/revision/latest?cb=20120717000952" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Necrophos_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Necrophos minimap icon.png">Necrophos minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Night_Stalker_minimap_icon.png/revision/latest?cb=20120717000952" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Night_Stalker_minimap_icon.png/revision/latest?cb=20120717000952" decoding="async" loading="lazy" width="120" height="120" data-image-name="Night Stalker minimap icon.png" data-image-key="Night_Stalker_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Night_Stalker_minimap_icon.png/revision/latest?cb=20120717000952" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Night_Stalker_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Night Stalker minimap icon.png">Night Stalker minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Nyx_Assassin_minimap_icon.png/revision/latest?cb=20120725222421" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Nyx_Assassin_minimap_icon.png/revision/latest?cb=20120725222421" decoding="async" loading="lazy" width="120" height="120" data-image-name="Nyx Assassin minimap icon.png" data-image-key="Nyx_Assassin_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Nyx_Assassin_minimap_icon.png/revision/latest?cb=20120725222421" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Nyx_Assassin_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Nyx Assassin minimap icon.png">Nyx Assassin minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Ogre_Magi_minimap_icon.png/revision/latest?cb=20120717000953" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Ogre_Magi_minimap_icon.png/revision/latest?cb=20120717000953" decoding="async" loading="lazy" width="120" height="120" data-image-name="Ogre Magi minimap icon.png" data-image-key="Ogre_Magi_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Ogre_Magi_minimap_icon.png/revision/latest?cb=20120717000953" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Ogre_Magi_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Ogre Magi minimap icon.png">Ogre Magi minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Omniknight_minimap_icon.png/revision/latest?cb=20120717000954" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Omniknight_minimap_icon.png/revision/latest?cb=20120717000954" decoding="async" loading="lazy" width="120" height="120" data-image-name="Omniknight minimap icon.png" data-image-key="Omniknight_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Omniknight_minimap_icon.png/revision/latest?cb=20120717000954" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Omniknight_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Omniknight minimap icon.png">Omniknight minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Oracle_minimap_icon.png/revision/latest?cb=20141115023105" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Oracle_minimap_icon.png/revision/latest?cb=20141115023105" decoding="async" loading="lazy" width="120" height="120" data-image-name="Oracle minimap icon.png" data-image-key="Oracle_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Oracle_minimap_icon.png/revision/latest?cb=20141115023105" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Oracle_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Oracle minimap icon.png">Oracle minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Outworld_Destroyer_minimap_icon.png/revision/latest?cb=20120717000955" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Outworld_Destroyer_minimap_icon.png/revision/latest?cb=20120717000955" decoding="async" loading="lazy" width="120" height="120" data-image-name="Outworld Destroyer minimap icon.png" data-image-key="Outworld_Destroyer_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Outworld_Destroyer_minimap_icon.png/revision/latest?cb=20120717000955" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Outworld_Destroyer_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Outworld Destroyer minimap icon.png">Outworld Destroyer minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Pangolier_minimap_icon.png/revision/latest?cb=20171030210811" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Pangolier_minimap_icon.png/revision/latest?cb=20171030210811" decoding="async" loading="lazy" width="120" height="120" data-image-name="Pangolier minimap icon.png" data-image-key="Pangolier_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Pangolier_minimap_icon.png/revision/latest?cb=20171030210811" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Pangolier_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Pangolier minimap icon.png">Pangolier minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Phantom_Assassin_minimap_icon.png/revision/latest?cb=20120725222507" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Phantom_Assassin_minimap_icon.png/revision/latest?cb=20120725222507" decoding="async" loading="lazy" width="120" height="120" data-image-name="Phantom Assassin minimap icon.png" data-image-key="Phantom_Assassin_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Phantom_Assassin_minimap_icon.png/revision/latest?cb=20120725222507" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Phantom_Assassin_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Phantom Assassin minimap icon.png">Phantom Assassin minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Phantom_Lancer_minimap_icon.png/revision/latest?cb=20120717000956" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Phantom_Lancer_minimap_icon.png/revision/latest?cb=20120717000956" decoding="async" loading="lazy" width="120" height="120" data-image-name="Phantom Lancer minimap icon.png" data-image-key="Phantom_Lancer_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Phantom_Lancer_minimap_icon.png/revision/latest?cb=20120717000956" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Phantom_Lancer_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Phantom Lancer minimap icon.png">Phantom Lancer minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Phoenix_minimap_icon.png/revision/latest?cb=20140130195654" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Phoenix_minimap_icon.png/revision/latest?cb=20140130195654" decoding="async" loading="lazy" width="120" height="120" data-image-name="Phoenix minimap icon.png" data-image-key="Phoenix_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Phoenix_minimap_icon.png/revision/latest?cb=20140130195654" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Phoenix_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Phoenix minimap icon.png">Phoenix minimap icon.png</a>
+32 × 32; 3 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Primal_Beast_minimap_icon.png/revision/latest?cb=20220223235249" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Primal_Beast_minimap_icon.png/revision/latest?cb=20220223235249" decoding="async" loading="lazy" width="120" height="120" data-image-name="Primal Beast minimap icon.png" data-image-key="Primal_Beast_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Primal_Beast_minimap_icon.png/revision/latest?cb=20220223235249" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Primal_Beast_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Primal Beast minimap icon.png">Primal Beast minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cf/Puck_minimap_icon.png/revision/latest?cb=20130613050809" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cf/Puck_minimap_icon.png/revision/latest?cb=20130613050809" decoding="async" loading="lazy" width="120" height="120" data-image-name="Puck minimap icon.png" data-image-key="Puck_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cf/Puck_minimap_icon.png/revision/latest?cb=20130613050809" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Puck_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Puck minimap icon.png">Puck minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Pudge_minimap_icon.png/revision/latest?cb=20120717000958" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Pudge_minimap_icon.png/revision/latest?cb=20120717000958" decoding="async" loading="lazy" width="120" height="120" data-image-name="Pudge minimap icon.png" data-image-key="Pudge_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Pudge_minimap_icon.png/revision/latest?cb=20120717000958" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Pudge_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Pudge minimap icon.png">Pudge minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Pugna_minimap_icon.png/revision/latest?cb=20120717000958" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Pugna_minimap_icon.png/revision/latest?cb=20120717000958" decoding="async" loading="lazy" width="120" height="120" data-image-name="Pugna minimap icon.png" data-image-key="Pugna_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Pugna_minimap_icon.png/revision/latest?cb=20120717000958" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Pugna_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Pugna minimap icon.png">Pugna minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Queen_of_Pain_minimap_icon.png/revision/latest?cb=20120717000959" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Queen_of_Pain_minimap_icon.png/revision/latest?cb=20120717000959" decoding="async" loading="lazy" width="120" height="120" data-image-name="Queen of Pain minimap icon.png" data-image-key="Queen_of_Pain_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Queen_of_Pain_minimap_icon.png/revision/latest?cb=20120717000959" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Queen_of_Pain_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Queen of Pain minimap icon.png">Queen of Pain minimap icon.png</a>
+32 × 32; 1 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Razor_minimap_icon.png/revision/latest?cb=20120717000959" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Razor_minimap_icon.png/revision/latest?cb=20120717000959" decoding="async" loading="lazy" width="120" height="120" data-image-name="Razor minimap icon.png" data-image-key="Razor_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Razor_minimap_icon.png/revision/latest?cb=20120717000959" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Razor_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Razor minimap icon.png">Razor minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Riki_minimap_icon.png/revision/latest?cb=20120717001000" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Riki_minimap_icon.png/revision/latest?cb=20120717001000" decoding="async" loading="lazy" width="120" height="120" data-image-name="Riki minimap icon.png" data-image-key="Riki_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Riki_minimap_icon.png/revision/latest?cb=20120717001000" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Riki_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Riki minimap icon.png">Riki minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Rubick_minimap_icon.png/revision/latest?cb=20120717001001" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Rubick_minimap_icon.png/revision/latest?cb=20120717001001" decoding="async" loading="lazy" width="120" height="120" data-image-name="Rubick minimap icon.png" data-image-key="Rubick_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Rubick_minimap_icon.png/revision/latest?cb=20120717001001" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Rubick_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Rubick minimap icon.png">Rubick minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Sand_King_minimap_icon.png/revision/latest?cb=20120717001002" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Sand_King_minimap_icon.png/revision/latest?cb=20120717001002" decoding="async" loading="lazy" width="120" height="120" data-image-name="Sand King minimap icon.png" data-image-key="Sand_King_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Sand_King_minimap_icon.png/revision/latest?cb=20120717001002" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Sand_King_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Sand King minimap icon.png">Sand King minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Shadow_Demon_minimap_icon.png/revision/latest?cb=20120717001002" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Shadow_Demon_minimap_icon.png/revision/latest?cb=20120717001002" decoding="async" loading="lazy" width="120" height="120" data-image-name="Shadow Demon minimap icon.png" data-image-key="Shadow_Demon_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Shadow_Demon_minimap_icon.png/revision/latest?cb=20120717001002" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Shadow_Demon_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Shadow Demon minimap icon.png">Shadow Demon minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Shadow_Fiend_minimap_icon.png/revision/latest?cb=20140924021543" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Shadow_Fiend_minimap_icon.png/revision/latest?cb=20140924021543" decoding="async" loading="lazy" width="120" height="120" data-image-name="Shadow Fiend minimap icon.png" data-image-key="Shadow_Fiend_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Shadow_Fiend_minimap_icon.png/revision/latest?cb=20140924021543" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Shadow_Fiend_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Shadow Fiend minimap icon.png">Shadow Fiend minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Shadow_Shaman_minimap_icon.png/revision/latest?cb=20120717001004" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Shadow_Shaman_minimap_icon.png/revision/latest?cb=20120717001004" decoding="async" loading="lazy" width="120" height="120" data-image-name="Shadow Shaman minimap icon.png" data-image-key="Shadow_Shaman_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Shadow_Shaman_minimap_icon.png/revision/latest?cb=20120717001004" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Shadow_Shaman_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Shadow Shaman minimap icon.png">Shadow Shaman minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Silencer_minimap_icon.png/revision/latest?cb=20130603155204" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Silencer_minimap_icon.png/revision/latest?cb=20130603155204" decoding="async" loading="lazy" width="120" height="120" data-image-name="Silencer minimap icon.png" data-image-key="Silencer_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Silencer_minimap_icon.png/revision/latest?cb=20130603155204" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Silencer_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Silencer minimap icon.png">Silencer minimap icon.png</a>
+32 × 32; 4 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ae/Skeleton_King_minimap_icon.png/revision/latest?cb=20120717001005" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ae/Skeleton_King_minimap_icon.png/revision/latest?cb=20120717001005" decoding="async" loading="lazy" width="120" height="120" data-image-name="Skeleton King minimap icon.png" data-image-key="Skeleton_King_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ae/Skeleton_King_minimap_icon.png/revision/latest?cb=20120717001005" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Skeleton_King_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Skeleton King minimap icon.png">Skeleton King minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Skywrath_Mage_minimap_icon.png/revision/latest?cb=20130417223157" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Skywrath_Mage_minimap_icon.png/revision/latest?cb=20130417223157" decoding="async" loading="lazy" width="120" height="120" data-image-name="Skywrath Mage minimap icon.png" data-image-key="Skywrath_Mage_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Skywrath_Mage_minimap_icon.png/revision/latest?cb=20130417223157" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Skywrath_Mage_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Skywrath Mage minimap icon.png">Skywrath Mage minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Slardar_minimap_icon.png/revision/latest?cb=20161213013138" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Slardar_minimap_icon.png/revision/latest?cb=20161213013138" decoding="async" loading="lazy" width="120" height="120" data-image-name="Slardar minimap icon.png" data-image-key="Slardar_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Slardar_minimap_icon.png/revision/latest?cb=20161213013138" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Slardar_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Slardar minimap icon.png">Slardar minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Slark_minimap_icon.png/revision/latest?cb=20121108022931" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Slark_minimap_icon.png/revision/latest?cb=20121108022931" decoding="async" loading="lazy" width="120" height="120" data-image-name="Slark minimap icon.png" data-image-key="Slark_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Slark_minimap_icon.png/revision/latest?cb=20121108022931" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Slark_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Slark minimap icon.png">Slark minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Snapfire_minimap_icon.png/revision/latest?cb=20191126183140" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Snapfire_minimap_icon.png/revision/latest?cb=20191126183140" decoding="async" loading="lazy" width="120" height="120" data-image-name="Snapfire minimap icon.png" data-image-key="Snapfire_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Snapfire_minimap_icon.png/revision/latest?cb=20191126183140" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Snapfire_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Snapfire minimap icon.png">Snapfire minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Sniper_minimap_icon.png/revision/latest?cb=20120717001007" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Sniper_minimap_icon.png/revision/latest?cb=20120717001007" decoding="async" loading="lazy" width="120" height="120" data-image-name="Sniper minimap icon.png" data-image-key="Sniper_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Sniper_minimap_icon.png/revision/latest?cb=20120717001007" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Sniper_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Sniper minimap icon.png">Sniper minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Spectre_minimap_icon.png/revision/latest?cb=20120717001008" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Spectre_minimap_icon.png/revision/latest?cb=20120717001008" decoding="async" loading="lazy" width="120" height="120" data-image-name="Spectre minimap icon.png" data-image-key="Spectre_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Spectre_minimap_icon.png/revision/latest?cb=20120717001008" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Spectre_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Spectre minimap icon.png">Spectre minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Spirit_Breaker_minimap_icon.png/revision/latest?cb=20120717001009" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Spirit_Breaker_minimap_icon.png/revision/latest?cb=20120717001009" decoding="async" loading="lazy" width="120" height="120" data-image-name="Spirit Breaker minimap icon.png" data-image-key="Spirit_Breaker_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Spirit_Breaker_minimap_icon.png/revision/latest?cb=20120717001009" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Spirit_Breaker_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Spirit Breaker minimap icon.png">Spirit Breaker minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Storm_Spirit_minimap_icon.png/revision/latest?cb=20131114151729" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Storm_Spirit_minimap_icon.png/revision/latest?cb=20131114151729" decoding="async" loading="lazy" width="120" height="120" data-image-name="Storm Spirit minimap icon.png" data-image-key="Storm_Spirit_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Storm_Spirit_minimap_icon.png/revision/latest?cb=20131114151729" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Storm_Spirit_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Storm Spirit minimap icon.png">Storm Spirit minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Sven_minimap_icon.png/revision/latest?cb=20120717001011" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Sven_minimap_icon.png/revision/latest?cb=20120717001011" decoding="async" loading="lazy" width="120" height="120" data-image-name="Sven minimap icon.png" data-image-key="Sven_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Sven_minimap_icon.png/revision/latest?cb=20120717001011" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Sven_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Sven minimap icon.png">Sven minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Techies_minimap_icon.png/revision/latest?cb=20140717031420" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Techies_minimap_icon.png/revision/latest?cb=20140717031420" decoding="async" loading="lazy" width="116" height="120" data-image-name="Techies minimap icon.png" data-image-key="Techies_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Techies_minimap_icon.png/revision/latest?cb=20140717031420" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Techies_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Techies minimap icon.png">Techies minimap icon.png</a>
+30 × 31; 19 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Templar_Assassin_minimap_icon.png/revision/latest?cb=20120717001012" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Templar_Assassin_minimap_icon.png/revision/latest?cb=20120717001012" decoding="async" loading="lazy" width="120" height="120" data-image-name="Templar Assassin minimap icon.png" data-image-key="Templar_Assassin_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Templar_Assassin_minimap_icon.png/revision/latest?cb=20120717001012" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Templar_Assassin_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Templar Assassin minimap icon.png">Templar Assassin minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Terrorblade_minimap_icon.png/revision/latest?cb=20140128194827" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Terrorblade_minimap_icon.png/revision/latest?cb=20140128194827" decoding="async" loading="lazy" width="120" height="120" data-image-name="Terrorblade minimap icon.png" data-image-key="Terrorblade_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Terrorblade_minimap_icon.png/revision/latest?cb=20140128194827" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Terrorblade_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Terrorblade minimap icon.png">Terrorblade minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Tidehunter_minimap_icon.png/revision/latest?cb=20120717001013" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Tidehunter_minimap_icon.png/revision/latest?cb=20120717001013" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tidehunter minimap icon.png" data-image-key="Tidehunter_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Tidehunter_minimap_icon.png/revision/latest?cb=20120717001013" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tidehunter_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tidehunter minimap icon.png">Tidehunter minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Timbersaw_minimap_icon.png/revision/latest?cb=20121213000506" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Timbersaw_minimap_icon.png/revision/latest?cb=20121213000506" decoding="async" loading="lazy" width="120" height="120" data-image-name="Timbersaw minimap icon.png" data-image-key="Timbersaw_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Timbersaw_minimap_icon.png/revision/latest?cb=20121213000506" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Timbersaw_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Timbersaw minimap icon.png">Timbersaw minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Tinker_minimap_icon.png/revision/latest?cb=20120717001014" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Tinker_minimap_icon.png/revision/latest?cb=20120717001014" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tinker minimap icon.png" data-image-key="Tinker_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Tinker_minimap_icon.png/revision/latest?cb=20120717001014" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tinker_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tinker minimap icon.png">Tinker minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Tiny_minimap_icon.png/revision/latest?cb=20120717001015" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Tiny_minimap_icon.png/revision/latest?cb=20120717001015" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tiny minimap icon.png" data-image-key="Tiny_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Tiny_minimap_icon.png/revision/latest?cb=20120717001015" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tiny_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tiny minimap icon.png">Tiny minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8f/Treant_Protector_minimap_icon.png/revision/latest?cb=20120717001015" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8f/Treant_Protector_minimap_icon.png/revision/latest?cb=20120717001015" decoding="async" loading="lazy" width="120" height="120" data-image-name="Treant Protector minimap icon.png" data-image-key="Treant_Protector_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8f/Treant_Protector_minimap_icon.png/revision/latest?cb=20120717001015" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Treant_Protector_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Treant Protector minimap icon.png">Treant Protector minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Troll_Warlord_minimap_icon.png/revision/latest?cb=20130117014619" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Troll_Warlord_minimap_icon.png/revision/latest?cb=20130117014619" decoding="async" loading="lazy" width="120" height="120" data-image-name="Troll Warlord minimap icon.png" data-image-key="Troll_Warlord_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Troll_Warlord_minimap_icon.png/revision/latest?cb=20130117014619" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Troll_Warlord_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Troll Warlord minimap icon.png">Troll Warlord minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Tusk_minimap_icon.png/revision/latest?cb=20130213223219" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Tusk_minimap_icon.png/revision/latest?cb=20130213223219" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tusk minimap icon.png" data-image-key="Tusk_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Tusk_minimap_icon.png/revision/latest?cb=20130213223219" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tusk_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tusk minimap icon.png">Tusk minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Underlord_minimap_icon.png/revision/latest?cb=20160823173932" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Underlord_minimap_icon.png/revision/latest?cb=20160823173932" decoding="async" loading="lazy" width="120" height="120" data-image-name="Underlord minimap icon.png" data-image-key="Underlord_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Underlord_minimap_icon.png/revision/latest?cb=20160823173932" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Underlord_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Underlord minimap icon.png">Underlord minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Undying_minimap_icon.png/revision/latest?cb=20120717001016" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Undying_minimap_icon.png/revision/latest?cb=20120717001016" decoding="async" loading="lazy" width="120" height="120" data-image-name="Undying minimap icon.png" data-image-key="Undying_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Undying_minimap_icon.png/revision/latest?cb=20120717001016" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Undying_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Undying minimap icon.png">Undying minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Ursa_minimap_icon.png/revision/latest?cb=20120717001017" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Ursa_minimap_icon.png/revision/latest?cb=20120717001017" decoding="async" loading="lazy" width="120" height="120" data-image-name="Ursa minimap icon.png" data-image-key="Ursa_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Ursa_minimap_icon.png/revision/latest?cb=20120717001017" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Ursa_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Ursa minimap icon.png">Ursa minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vengeful_Spirit_minimap_icon.png/revision/latest?cb=20130329200732" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vengeful_Spirit_minimap_icon.png/revision/latest?cb=20130329200732" decoding="async" loading="lazy" width="120" height="120" data-image-name="Vengeful Spirit minimap icon.png" data-image-key="Vengeful_Spirit_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vengeful_Spirit_minimap_icon.png/revision/latest?cb=20130329200732" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Vengeful_Spirit_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Vengeful Spirit minimap icon.png">Vengeful Spirit minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Venomancer_minimap_icon.png/revision/latest?cb=20131124183639" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Venomancer_minimap_icon.png/revision/latest?cb=20131124183639" decoding="async" loading="lazy" width="120" height="120" data-image-name="Venomancer minimap icon.png" data-image-key="Venomancer_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Venomancer_minimap_icon.png/revision/latest?cb=20131124183639" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Venomancer_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Venomancer minimap icon.png">Venomancer minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Viper_minimap_icon.png/revision/latest?cb=20161212232039" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Viper_minimap_icon.png/revision/latest?cb=20161212232039" decoding="async" loading="lazy" width="120" height="120" data-image-name="Viper minimap icon.png" data-image-key="Viper_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Viper_minimap_icon.png/revision/latest?cb=20161212232039" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Viper_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Viper minimap icon.png">Viper minimap icon.png</a>
+32 × 32; 4 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Visage_minimap_icon.png/revision/latest?cb=20120725222430" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Visage_minimap_icon.png/revision/latest?cb=20120725222430" decoding="async" loading="lazy" width="120" height="120" data-image-name="Visage minimap icon.png" data-image-key="Visage_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Visage_minimap_icon.png/revision/latest?cb=20120725222430" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Visage_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Visage minimap icon.png">Visage minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Void_Spirit_minimap_icon.png/revision/latest?cb=20191126183154" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Void_Spirit_minimap_icon.png/revision/latest?cb=20191126183154" decoding="async" loading="lazy" width="120" height="120" data-image-name="Void Spirit minimap icon.png" data-image-key="Void_Spirit_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Void_Spirit_minimap_icon.png/revision/latest?cb=20191126183154" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Void_Spirit_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Void Spirit minimap icon.png">Void Spirit minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Warlock_minimap_icon.png/revision/latest?cb=20120717001020" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Warlock_minimap_icon.png/revision/latest?cb=20120717001020" decoding="async" loading="lazy" width="120" height="120" data-image-name="Warlock minimap icon.png" data-image-key="Warlock_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Warlock_minimap_icon.png/revision/latest?cb=20120717001020" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Warlock_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Warlock minimap icon.png">Warlock minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Weaver_minimap_icon.png/revision/latest?cb=20120717001021" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Weaver_minimap_icon.png/revision/latest?cb=20120717001021" decoding="async" loading="lazy" width="120" height="120" data-image-name="Weaver minimap icon.png" data-image-key="Weaver_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Weaver_minimap_icon.png/revision/latest?cb=20120717001021" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Weaver_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Weaver minimap icon.png">Weaver minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Windranger_minimap_icon.png/revision/latest?cb=20120717000804" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Windranger_minimap_icon.png/revision/latest?cb=20120717000804" decoding="async" loading="lazy" width="120" height="120" data-image-name="Windranger minimap icon.png" data-image-key="Windranger_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Windranger_minimap_icon.png/revision/latest?cb=20120717000804" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Windranger_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Windranger minimap icon.png">Windranger minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Winter_Wyvern_minimap_icon.png/revision/latest?cb=20150211184129" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Winter_Wyvern_minimap_icon.png/revision/latest?cb=20150211184129" decoding="async" loading="lazy" width="120" height="120" data-image-name="Winter Wyvern minimap icon.png" data-image-key="Winter_Wyvern_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Winter_Wyvern_minimap_icon.png/revision/latest?cb=20150211184129" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Winter_Wyvern_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Winter Wyvern minimap icon.png">Winter Wyvern minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Witch_Doctor_minimap_icon.png/revision/latest?cb=20120717001022" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Witch_Doctor_minimap_icon.png/revision/latest?cb=20120717001022" decoding="async" loading="lazy" width="120" height="120" data-image-name="Witch Doctor minimap icon.png" data-image-key="Witch_Doctor_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Witch_Doctor_minimap_icon.png/revision/latest?cb=20120717001022" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Witch_Doctor_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Witch Doctor minimap icon.png">Witch Doctor minimap icon.png</a>
+32 × 32; 2 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Wraith_King_minimap_icon.png/revision/latest?cb=20131212005433" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Wraith_King_minimap_icon.png/revision/latest?cb=20131212005433" decoding="async" loading="lazy" width="120" height="120" data-image-name="Wraith King minimap icon.png" data-image-key="Wraith_King_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Wraith_King_minimap_icon.png/revision/latest?cb=20131212005433" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wraith_King_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Wraith King minimap icon.png">Wraith King minimap icon.png</a>
+32 × 32; 7 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Zeus_minimap_icon.png/revision/latest?cb=20151216230007" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Zeus_minimap_icon.png/revision/latest?cb=20151216230007" decoding="async" loading="lazy" width="120" height="120" data-image-name="Zeus minimap icon.png" data-image-key="Zeus_minimap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Zeus_minimap_icon.png/revision/latest?cb=20151216230007" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Zeus_minimap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Zeus minimap icon.png">Zeus minimap icon.png</a>
+32 × 32; 5 KB<br>
+
+			</div>
+		</div></li>
+</ul>
