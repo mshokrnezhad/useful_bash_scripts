@@ -1,0 +1,890 @@
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Static_Remnant_icon.png/revision/latest?cb=20131114122105" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Static_Remnant_icon.png/revision/latest/scale-to-width-down/120?cb=20131114122105" decoding="async" loading="lazy" width="120" height="120" data-image-name="Static Remnant icon.png" data-image-key="Static_Remnant_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Static_Remnant_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Static Remnant icon.png">Static Remnant icon.png</a>
+128 × 128; 37 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Static_Storm_icon.png/revision/latest?cb=20120704192000" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Static_Storm_icon.png/revision/latest/scale-to-width-down/120?cb=20120704192000" decoding="async" loading="lazy" width="120" height="120" data-image-name="Static Storm icon.png" data-image-key="Static_Storm_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Static_Storm_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Static Storm icon.png">Static Storm icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Sticky_Bomb_icon.png/revision/latest?cb=20220227043752" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Sticky_Bomb_icon.png/revision/latest/scale-to-width-down/120?cb=20220227043752" decoding="async" loading="lazy" width="120" height="120" data-image-name="Sticky Bomb icon.png" data-image-key="Sticky_Bomb_icon.png" data-relevant="0"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Sticky_Bomb_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Sticky Bomb icon.png">Sticky Bomb icon.png</a>
+128 × 128; 30 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Sticky_Napalm_icon.png/revision/latest?cb=20120801073510" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Sticky_Napalm_icon.png/revision/latest/scale-to-width-down/120?cb=20120801073510" decoding="async" loading="lazy" width="120" height="120" data-image-name="Sticky Napalm icon.png" data-image-key="Sticky_Napalm_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Sticky_Napalm_icon.png/revision/latest/scale-to-width-down/120?cb=20120801073510" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Sticky_Napalm_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Sticky Napalm icon.png">Sticky Napalm icon.png</a>
+128 × 128; 23 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Stifling_Dagger_icon.png/revision/latest?cb=20121019220116" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Stifling_Dagger_icon.png/revision/latest/scale-to-width-down/120?cb=20121019220116" decoding="async" loading="lazy" width="120" height="120" data-image-name="Stifling Dagger icon.png" data-image-key="Stifling_Dagger_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Stifling_Dagger_icon.png/revision/latest/scale-to-width-down/120?cb=20121019220116" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Stifling_Dagger_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Stifling Dagger icon.png">Stifling Dagger icon.png</a>
+128 × 128; 34 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Stone_Gaze_icon.png/revision/latest?cb=20130109222056" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Stone_Gaze_icon.png/revision/latest/scale-to-width-down/120?cb=20130109222056" decoding="async" loading="lazy" width="120" height="120" data-image-name="Stone Gaze icon.png" data-image-key="Stone_Gaze_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Stone_Gaze_icon.png/revision/latest/scale-to-width-down/120?cb=20130109222056" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Stone_Gaze_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Stone Gaze icon.png">Stone Gaze icon.png</a>
+128 × 128; 23 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Stone_Remnant_icon.png/revision/latest?cb=20131114123918" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Stone_Remnant_icon.png/revision/latest/scale-to-width-down/120?cb=20131114123918" decoding="async" loading="lazy" width="120" height="120" data-image-name="Stone Remnant icon.png" data-image-key="Stone_Remnant_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Stone_Remnant_icon.png/revision/latest/scale-to-width-down/120?cb=20131114123918" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Stone_Remnant_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Stone Remnant icon.png">Stone Remnant icon.png</a>
+128 × 128; 30 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Stop_Freezing_Field_icon.png/revision/latest?cb=20210418145525" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Stop_Freezing_Field_icon.png/revision/latest/scale-to-width-down/120?cb=20210418145525" decoding="async" loading="lazy" width="120" height="120" data-image-name="Stop Freezing Field icon.png" data-image-key="Stop_Freezing_Field_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Stop_Freezing_Field_icon.png/revision/latest/scale-to-width-down/120?cb=20210418145525" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Stop_Freezing_Field_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Stop Freezing Field icon.png">Stop Freezing Field icon.png</a>
+128 × 128; 25 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Stop_Icarus_Dive_icon.png/revision/latest?cb=20140128194655" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Stop_Icarus_Dive_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194655" decoding="async" loading="lazy" width="120" height="120" data-image-name="Stop Icarus Dive icon.png" data-image-key="Stop_Icarus_Dive_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Stop_Icarus_Dive_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194655" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Stop_Icarus_Dive_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Stop Icarus Dive icon.png">Stop Icarus Dive icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Stop_Rolling_icon.png/revision/latest?cb=20171030223449" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Stop_Rolling_icon.png/revision/latest/scale-to-width-down/120?cb=20171030223449" decoding="async" loading="lazy" width="120" height="120" data-image-name="Stop Rolling icon.png" data-image-key="Stop_Rolling_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Stop_Rolling_icon.png/revision/latest/scale-to-width-down/120?cb=20171030223449" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Stop_Rolling_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Stop Rolling icon.png">Stop Rolling icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Stop_Sun_Ray_icon.png/revision/latest?cb=20140128194640" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Stop_Sun_Ray_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194640" decoding="async" loading="lazy" width="120" height="120" data-image-name="Stop Sun Ray icon.png" data-image-key="Stop_Sun_Ray_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Stop_Sun_Ray_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194640" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Stop_Sun_Ray_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Stop Sun Ray icon.png">Stop Sun Ray icon.png</a>
+128 × 128; 21 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Storm_Hammer_%28Secondary%29_icon.png/revision/latest?cb=20230809042951" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Storm_Hammer_%28Secondary%29_icon.png/revision/latest/scale-to-width-down/120?cb=20230809042951" decoding="async" loading="lazy" width="120" height="120" data-image-name="Storm Hammer (Secondary) icon.png" data-image-key="Storm_Hammer_%28Secondary%29_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Storm_Hammer_%28Secondary%29_icon.png/revision/latest/scale-to-width-down/120?cb=20230809042951" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Storm_Hammer_(Secondary)_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Storm Hammer (Secondary) icon.png">Storm Hammer (Secondary) icon.png</a>
+128 × 128; 30 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Storm_Hammer_icon.png/revision/latest?cb=20111006073706" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Storm_Hammer_icon.png/revision/latest/scale-to-width-down/120?cb=20111006073706" decoding="async" loading="lazy" width="120" height="120" data-image-name="Storm Hammer icon.png" data-image-key="Storm_Hammer_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Storm_Hammer_icon.png/revision/latest/scale-to-width-down/120?cb=20111006073706" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Storm_Hammer_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Storm Hammer icon.png">Storm Hammer icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Storm_Surge_icon.png/revision/latest?cb=20111006070232" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Storm_Surge_icon.png/revision/latest/scale-to-width-down/120?cb=20111006070232" decoding="async" loading="lazy" width="120" height="120" data-image-name="Storm Surge icon.png" data-image-key="Storm_Surge_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Storm_Surge_icon.png/revision/latest/scale-to-width-down/120?cb=20111006070232" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Storm_Surge_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Storm Surge icon.png">Storm Surge icon.png</a>
+128 × 128; 34 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Strafe_icon.png/revision/latest?cb=20120127023744" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Strafe_icon.png/revision/latest/scale-to-width-down/120?cb=20120127023744" decoding="async" loading="lazy" width="120" height="120" data-image-name="Strafe icon.png" data-image-key="Strafe_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Strafe_icon.png/revision/latest/scale-to-width-down/120?cb=20120127023744" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Strafe_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Strafe icon.png">Strafe icon.png</a>
+128 × 128; 30 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Stroke_of_Fate_icon.png/revision/latest?cb=20180825050827" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Stroke_of_Fate_icon.png/revision/latest/scale-to-width-down/120?cb=20180825050827" decoding="async" loading="lazy" width="120" height="120" data-image-name="Stroke of Fate icon.png" data-image-key="Stroke_of_Fate_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Stroke_of_Fate_icon.png/revision/latest/scale-to-width-down/120?cb=20180825050827" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Stroke_of_Fate_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Stroke of Fate icon.png">Stroke of Fate icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Suicide_Squad%2C_Attack%21_icon.png/revision/latest?cb=20140717031837" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Suicide_Squad%2C_Attack%21_icon.png/revision/latest/scale-to-width-down/120?cb=20140717031837" decoding="async" loading="lazy" width="120" height="120" data-image-name="Suicide Squad, Attack! icon.png" data-image-key="Suicide_Squad%2C_Attack%21_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Suicide_Squad%2C_Attack%21_icon.png/revision/latest/scale-to-width-down/120?cb=20140717031837" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Suicide_Squad,_Attack!_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Suicide Squad, Attack! icon.png">Suicide Squad, Attack! icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Summon_Familiars_icon.png/revision/latest?cb=20120725222728" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Summon_Familiars_icon.png/revision/latest/scale-to-width-down/120?cb=20120725222728" decoding="async" loading="lazy" width="120" height="120" data-image-name="Summon Familiars icon.png" data-image-key="Summon_Familiars_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Summon_Familiars_icon.png/revision/latest/scale-to-width-down/120?cb=20120725222728" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Summon_Familiars_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Summon Familiars icon.png">Summon Familiars icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Summon_Spirit_Bear_icon.png/revision/latest?cb=20120801075013" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Summon_Spirit_Bear_icon.png/revision/latest/scale-to-width-down/120?cb=20120801075013" decoding="async" loading="lazy" width="120" height="120" data-image-name="Summon Spirit Bear icon.png" data-image-key="Summon_Spirit_Bear_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Summon_Spirit_Bear_icon.png/revision/latest/scale-to-width-down/120?cb=20120801075013" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Summon_Spirit_Bear_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Summon Spirit Bear icon.png">Summon Spirit Bear icon.png</a>
+128 × 128; 33 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Summon_Wolves_icon.png/revision/latest?cb=20120321213924" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Summon_Wolves_icon.png/revision/latest/scale-to-width-down/120?cb=20120321213924" decoding="async" loading="lazy" width="120" height="120" data-image-name="Summon Wolves icon.png" data-image-key="Summon_Wolves_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Summon_Wolves_icon.png/revision/latest/scale-to-width-down/120?cb=20120321213924" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Summon_Wolves_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Summon Wolves icon.png">Summon Wolves icon.png</a>
+128 × 128; 26 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Sun_Ray_icon.png/revision/latest?cb=20140128194638" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Sun_Ray_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194638" decoding="async" loading="lazy" width="120" height="120" data-image-name="Sun Ray icon.png" data-image-key="Sun_Ray_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Sun_Ray_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194638" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Sun_Ray_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Sun Ray icon.png">Sun Ray icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Sun_Strike_icon.png/revision/latest?cb=20111216184520" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Sun_Strike_icon.png/revision/latest/scale-to-width-down/120?cb=20111216184520" decoding="async" loading="lazy" width="120" height="120" data-image-name="Sun Strike icon.png" data-image-key="Sun_Strike_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Sun_Strike_icon.png/revision/latest/scale-to-width-down/120?cb=20111216184520" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Sun_Strike_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Sun Strike icon.png">Sun Strike icon.png</a>
+128 × 128; 24 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Sunder_icon.png/revision/latest?cb=20140128194635" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Sunder_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194635" decoding="async" loading="lazy" width="120" height="120" data-image-name="Sunder icon.png" data-image-key="Sunder_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Sunder_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194635" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Sunder_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Sunder icon.png">Sunder icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Supernova_icon.png/revision/latest?cb=20140128194632" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Supernova_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194632" decoding="async" loading="lazy" width="120" height="120" data-image-name="Supernova icon.png" data-image-key="Supernova_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Supernova_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194632" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Supernova_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Supernova icon.png">Supernova icon.png</a>
+128 × 128; 35 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Surge_%28Secondary%29_icon.png/revision/latest?cb=20230809014101" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Surge_%28Secondary%29_icon.png/revision/latest/scale-to-width-down/120?cb=20230809014101" decoding="async" loading="lazy" width="120" height="120" data-image-name="Surge (Secondary) icon.png" data-image-key="Surge_%28Secondary%29_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Surge_%28Secondary%29_icon.png/revision/latest/scale-to-width-down/120?cb=20230809014101" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Surge_(Secondary)_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Surge (Secondary) icon.png">Surge (Secondary) icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Surge_icon.png/revision/latest?cb=20130712225922" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Surge_icon.png/revision/latest/scale-to-width-down/120?cb=20130712225922" decoding="async" loading="lazy" width="120" height="120" data-image-name="Surge icon.png" data-image-key="Surge_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Surge_icon.png/revision/latest/scale-to-width-down/120?cb=20130712225922" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Surge_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Surge icon.png">Surge icon.png</a>
+128 × 128; 26 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/93/Swashbuckle_icon.png/revision/latest?cb=20171030190318" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/93/Swashbuckle_icon.png/revision/latest/scale-to-width-down/120?cb=20171030190318" decoding="async" loading="lazy" width="120" height="120" data-image-name="Swashbuckle icon.png" data-image-key="Swashbuckle_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/93/Swashbuckle_icon.png/revision/latest/scale-to-width-down/120?cb=20171030190318" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Swashbuckle_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Swashbuckle icon.png">Swashbuckle icon.png</a>
+128 × 128; 27 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Swiftslash_icon.png/revision/latest?cb=20200318085440" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Swiftslash_icon.png/revision/latest/scale-to-width-down/120?cb=20200318085440" decoding="async" loading="lazy" width="120" height="120" data-image-name="Swiftslash icon.png" data-image-key="Swiftslash_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Swiftslash_icon.png/revision/latest/scale-to-width-down/120?cb=20200318085440" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Swiftslash_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Swiftslash icon.png">Swiftslash icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9e/Tag_Team_icon.png/revision/latest?cb=20181121235845" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9e/Tag_Team_icon.png/revision/latest/scale-to-width-down/120?cb=20181121235845" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tag Team icon.png" data-image-key="Tag_Team_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9e/Tag_Team_icon.png/revision/latest/scale-to-width-down/120?cb=20181121235845" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tag_Team_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tag Team icon.png">Tag Team icon.png</a>
+128 × 128; 34 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Take_Aim_icon.png/revision/latest?cb=20121003222757" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Take_Aim_icon.png/revision/latest/scale-to-width-down/120?cb=20121003222757" decoding="async" loading="lazy" width="120" height="120" data-image-name="Take Aim icon.png" data-image-key="Take_Aim_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Take_Aim_icon.png/revision/latest/scale-to-width-down/120?cb=20121003222757" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Take_Aim_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Take Aim icon.png">Take Aim icon.png</a>
+128 × 128; 33 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8c/Tar_Bomb_icon.png/revision/latest?cb=20230421034643" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8c/Tar_Bomb_icon.png/revision/latest/scale-to-width-down/120?cb=20230421034643" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tar Bomb icon.png" data-image-key="Tar_Bomb_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8c/Tar_Bomb_icon.png/revision/latest/scale-to-width-down/120?cb=20230421034643" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tar_Bomb_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tar Bomb icon.png">Tar Bomb icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Telekinesis_icon.png/revision/latest?cb=20120620035342" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Telekinesis_icon.png/revision/latest/scale-to-width-down/120?cb=20120620035342" decoding="async" loading="lazy" width="120" height="120" data-image-name="Telekinesis icon.png" data-image-key="Telekinesis_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Telekinesis_icon.png/revision/latest/scale-to-width-down/120?cb=20120620035342" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Telekinesis_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Telekinesis icon.png">Telekinesis icon.png</a>
+128 × 128; 24 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Telekinesis_Land_icon.png/revision/latest?cb=20120620035319" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Telekinesis_Land_icon.png/revision/latest/scale-to-width-down/120?cb=20120620035319" decoding="async" loading="lazy" width="120" height="120" data-image-name="Telekinesis Land icon.png" data-image-key="Telekinesis_Land_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Telekinesis_Land_icon.png/revision/latest/scale-to-width-down/120?cb=20120620035319" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Telekinesis_Land_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Telekinesis Land icon.png">Telekinesis Land icon.png</a>
+128 × 128; 21 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Teleportation_icon.png/revision/latest?cb=20111006060321" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Teleportation_icon.png/revision/latest/scale-to-width-down/120?cb=20111006060321" decoding="async" loading="lazy" width="120" height="120" data-image-name="Teleportation icon.png" data-image-key="Teleportation_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Teleportation_icon.png/revision/latest/scale-to-width-down/120?cb=20111006060321" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Teleportation_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Teleportation icon.png">Teleportation icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Tempest_Double_icon.png/revision/latest?cb=20151218220704" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Tempest_Double_icon.png/revision/latest/scale-to-width-down/120?cb=20151218220704" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tempest Double icon.png" data-image-key="Tempest_Double_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Tempest_Double_icon.png/revision/latest/scale-to-width-down/120?cb=20151218220704" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tempest_Double_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tempest Double icon.png">Tempest Double icon.png</a>
+128 × 128; 32 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Terror_Wave_icon.png/revision/latest?cb=20200319085243" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Terror_Wave_icon.png/revision/latest/scale-to-width-down/120?cb=20200319085243" decoding="async" loading="lazy" width="120" height="120" data-image-name="Terror Wave icon.png" data-image-key="Terror_Wave_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Terror_Wave_icon.png/revision/latest/scale-to-width-down/120?cb=20200319085243" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Terror_Wave_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Terror Wave icon.png">Terror Wave icon.png</a>
+128 × 128; 35 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Terrorize_icon.png/revision/latest?cb=20171030202351" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Terrorize_icon.png/revision/latest/scale-to-width-down/120?cb=20171030202351" decoding="async" loading="lazy" width="120" height="120" data-image-name="Terrorize icon.png" data-image-key="Terrorize_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Terrorize_icon.png/revision/latest/scale-to-width-down/120?cb=20171030202351" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Terrorize_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Terrorize icon.png">Terrorize icon.png</a>
+128 × 128; 37 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Test_of_Faith_%28Teleport%29_icon.png/revision/latest?cb=20121004014350" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Test_of_Faith_%28Teleport%29_icon.png/revision/latest/scale-to-width-down/120?cb=20121004014350" decoding="async" loading="lazy" width="120" height="120" data-image-name="Test of Faith (Teleport) icon.png" data-image-key="Test_of_Faith_%28Teleport%29_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Test_of_Faith_%28Teleport%29_icon.png/revision/latest/scale-to-width-down/120?cb=20121004014350" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Test_of_Faith_(Teleport)_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Test of Faith (Teleport) icon.png">Test of Faith (Teleport) icon.png</a>
+128 × 128; 26 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Test_of_Faith_icon.png/revision/latest?cb=20111005084506" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Test_of_Faith_icon.png/revision/latest/scale-to-width-down/120?cb=20111005084506" decoding="async" loading="lazy" width="120" height="120" data-image-name="Test of Faith icon.png" data-image-key="Test_of_Faith_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Test_of_Faith_icon.png/revision/latest/scale-to-width-down/120?cb=20111005084506" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Test_of_Faith_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Test of Faith icon.png">Test of Faith icon.png</a>
+128 × 128; 27 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Tether_icon.png/revision/latest?cb=20130331095016" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Tether_icon.png/revision/latest/scale-to-width-down/120?cb=20130331095016" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tether icon.png" data-image-key="Tether_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Tether_icon.png/revision/latest/scale-to-width-down/120?cb=20130331095016" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tether_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tether icon.png">Tether icon.png</a>
+128 × 128; 25 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/The_Swarm_icon.png/revision/latest?cb=20121003222914" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/The_Swarm_icon.png/revision/latest/scale-to-width-down/120?cb=20121003222914" decoding="async" loading="lazy" width="120" height="120" data-image-name="The Swarm icon.png" data-image-key="The_Swarm_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/The_Swarm_icon.png/revision/latest/scale-to-width-down/120?cb=20121003222914" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:The_Swarm_icon.png" class="galleryfilename galleryfilename-truncate" title="File:The Swarm icon.png">The Swarm icon.png</a>
+128 × 128; 35 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Thirst_icon.png/revision/latest?cb=20111005084355" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Thirst_icon.png/revision/latest/scale-to-width-down/120?cb=20111005084355" decoding="async" loading="lazy" width="120" height="120" data-image-name="Thirst icon.png" data-image-key="Thirst_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Thirst_icon.png/revision/latest/scale-to-width-down/120?cb=20111005084355" class=" ls-is-cached lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Thirst_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Thirst icon.png">Thirst icon.png</a>
+128 × 128; 20 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Thunder_Clap_icon.png/revision/latest?cb=20150905223724" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Thunder_Clap_icon.png/revision/latest/scale-to-width-down/120?cb=20150905223724" decoding="async" loading="lazy" width="120" height="120" data-image-name="Thunder Clap icon.png" data-image-key="Thunder_Clap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Thunder_Clap_icon.png/revision/latest/scale-to-width-down/120?cb=20150905223724" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Thunder_Clap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Thunder Clap icon.png">Thunder Clap icon.png</a>
+128 × 128; 25 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Thunder_Strike_icon.png/revision/latest?cb=20120704192006" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Thunder_Strike_icon.png/revision/latest/scale-to-width-down/120?cb=20120704192006" decoding="async" loading="lazy" width="120" height="120" data-image-name="Thunder Strike icon.png" data-image-key="Thunder_Strike_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Thunder_Strike_icon.png/revision/latest/scale-to-width-down/120?cb=20120704192006" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Thunder_Strike_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Thunder Strike icon.png">Thunder Strike icon.png</a>
+128 × 128; 27 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Thundergod%27s_Wrath_icon.png/revision/latest?cb=20180712011225" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Thundergod%27s_Wrath_icon.png/revision/latest/scale-to-width-down/120?cb=20180712011225" decoding="async" loading="lazy" width="120" height="120" data-image-name="Thundergod's Wrath icon.png" data-image-key="Thundergod%27s_Wrath_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Thundergod%27s_Wrath_icon.png/revision/latest/scale-to-width-down/120?cb=20180712011225" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Thundergod%27s_Wrath_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Thundergod's Wrath icon.png">Thundergod's Wrath icon.png</a>
+128 × 128; 22 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Tidal_Wave_icon.png/revision/latest?cb=20201219000829" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Tidal_Wave_icon.png/revision/latest/scale-to-width-down/120?cb=20201219000829" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tidal Wave icon.png" data-image-key="Tidal_Wave_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Tidal_Wave_icon.png/revision/latest/scale-to-width-down/120?cb=20201219000829" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tidal_Wave_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tidal Wave icon.png">Tidal Wave icon.png</a>
+128 × 128; 30 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Tidebringer_icon.png/revision/latest?cb=20111005120054" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Tidebringer_icon.png/revision/latest/scale-to-width-down/120?cb=20111005120054" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tidebringer icon.png" data-image-key="Tidebringer_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Tidebringer_icon.png/revision/latest/scale-to-width-down/120?cb=20111005120054" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tidebringer_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tidebringer icon.png">Tidebringer icon.png</a>
+128 × 128; 27 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Timber_Chain_icon.png/revision/latest?cb=20121212234815" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Timber_Chain_icon.png/revision/latest/scale-to-width-down/120?cb=20121212234815" decoding="async" loading="lazy" width="120" height="120" data-image-name="Timber Chain icon.png" data-image-key="Timber_Chain_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Timber_Chain_icon.png/revision/latest/scale-to-width-down/120?cb=20121212234815" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Timber_Chain_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Timber Chain icon.png">Timber Chain icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Time_Dilation_icon.png/revision/latest?cb=20151217055142" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Time_Dilation_icon.png/revision/latest/scale-to-width-down/120?cb=20151217055142" decoding="async" loading="lazy" width="120" height="120" data-image-name="Time Dilation icon.png" data-image-key="Time_Dilation_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Time_Dilation_icon.png/revision/latest/scale-to-width-down/120?cb=20151217055142" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Time_Dilation_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Time Dilation icon.png">Time Dilation icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Time_Lapse_icon.png/revision/latest?cb=20121003222836" class="image"><img alt="" src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Time_Lapse_icon.png/revision/latest/scale-to-width-down/120?cb=20121003222836" decoding="async" loading="lazy" width="120" height="120" data-image-name="Time Lapse icon.png" data-image-key="Time_Lapse_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Time_Lapse_icon.png/revision/latest/scale-to-width-down/120?cb=20121003222836" class=" lazyloaded"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Time_Lapse_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Time Lapse icon.png">Time Lapse icon.png</a>
+128 × 128; 32 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b7/Time_Lock_icon.png/revision/latest?cb=20150319230111" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Time Lock icon.png" data-image-key="Time_Lock_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b7/Time_Lock_icon.png/revision/latest/scale-to-width-down/120?cb=20150319230111" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Time_Lock_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Time Lock icon.png">Time Lock icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Time_Walk_icon.png/revision/latest?cb=20111005115055" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Time Walk icon.png" data-image-key="Time_Walk_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Time_Walk_icon.png/revision/latest/scale-to-width-down/120?cb=20111005115055" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Time_Walk_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Time Walk icon.png">Time Walk icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/62/Toggle_Movement_icon.png/revision/latest?cb=20140128194642" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Toggle Movement icon.png" data-image-key="Toggle_Movement_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/62/Toggle_Movement_icon.png/revision/latest/scale-to-width-down/120?cb=20140128194642" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Toggle_Movement_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Toggle Movement icon.png">Toggle Movement icon.png</a>
+128 × 128; 22 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Tombstone_icon.png/revision/latest?cb=20120704191633" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tombstone icon.png" data-image-key="Tombstone_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Tombstone_icon.png/revision/latest/scale-to-width-down/120?cb=20120704191633" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tombstone_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tombstone icon.png">Tombstone icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Tornado_icon.png/revision/latest?cb=20111216184520" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tornado icon.png" data-image-key="Tornado_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Tornado_icon.png/revision/latest/scale-to-width-down/120?cb=20111216184520" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tornado_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tornado icon.png">Tornado icon.png</a>
+128 × 128; 32 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Torrent_icon.png/revision/latest?cb=20111005120053" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Torrent icon.png" data-image-key="Torrent_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Torrent_icon.png/revision/latest/scale-to-width-down/120?cb=20111005120053" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Torrent_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Torrent icon.png">Torrent icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Torrent_Storm_icon.png/revision/latest?cb=20191206223719" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Torrent Storm icon.png" data-image-key="Torrent_Storm_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Torrent_Storm_icon.png/revision/latest/scale-to-width-down/120?cb=20191206223719" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Torrent_Storm_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Torrent Storm icon.png">Torrent Storm icon.png</a>
+128 × 128; 33 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Toss_icon.png/revision/latest?cb=20111006074316" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Toss icon.png" data-image-key="Toss_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Toss_icon.png/revision/latest/scale-to-width-down/120?cb=20111006074316" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Toss_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Toss icon.png">Toss icon.png</a>
+128 × 128; 33 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Track_icon.png/revision/latest?cb=20111216192643" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Track icon.png" data-image-key="Track_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Track_icon.png/revision/latest/scale-to-width-down/120?cb=20111216192643" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Track_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Track icon.png">Track icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Trample_icon.png/revision/latest?cb=20220223232308" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Trample icon.png" data-image-key="Trample_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Trample_icon.png/revision/latest/scale-to-width-down/120?cb=20220223232308" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Trample_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Trample icon.png">Trample icon.png</a>
+128 × 128; 35 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Trap_%28Secondary%29_icon.png/revision/latest?cb=20230809043244" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Trap (Secondary) icon.png" data-image-key="Trap_%28Secondary%29_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Trap_%28Secondary%29_icon.png/revision/latest/scale-to-width-down/120?cb=20230809043244" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Trap_(Secondary)_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Trap (Secondary) icon.png">Trap (Secondary) icon.png</a>
+128 × 128; 34 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Trap_icon.png/revision/latest?cb=20120704195849" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Trap icon.png" data-image-key="Trap_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Trap_icon.png/revision/latest/scale-to-width-down/120?cb=20120704195849" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Trap_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Trap icon.png">Trap icon.png</a>
+128 × 128; 30 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/58/Tree_Dance_icon.png/revision/latest?cb=20161211203741" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tree Dance icon.png" data-image-key="Tree_Dance_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/5/58/Tree_Dance_icon.png/revision/latest/scale-to-width-down/120?cb=20161211203741" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tree_Dance_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tree Dance icon.png">Tree Dance icon.png</a>
+128 × 128; 30 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Tree_Grab_icon.png/revision/latest?cb=20171030235342" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tree Grab icon.png" data-image-key="Tree_Grab_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Tree_Grab_icon.png/revision/latest/scale-to-width-down/120?cb=20171030235342" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tree_Grab_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tree Grab icon.png">Tree Grab icon.png</a>
+128 × 128; 36 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Tree_Throw_icon.png/revision/latest?cb=20171031010338" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tree Throw icon.png" data-image-key="Tree_Throw_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Tree_Throw_icon.png/revision/latest/scale-to-width-down/120?cb=20171031010338" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tree_Throw_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tree Throw icon.png">Tree Throw icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Tree_Volley_icon.png/revision/latest?cb=20190525201831" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tree Volley icon.png" data-image-key="Tree_Volley_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Tree_Volley_icon.png/revision/latest/scale-to-width-down/120?cb=20190525201831" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tree_Volley_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tree Volley icon.png">Tree Volley icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Tricks_of_the_Trade_icon.png/revision/latest?cb=20151217092400" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Tricks of the Trade icon.png" data-image-key="Tricks_of_the_Trade_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Tricks_of_the_Trade_icon.png/revision/latest/scale-to-width-down/120?cb=20151217092400" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Tricks_of_the_Trade_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Tricks of the Trade icon.png">Tricks of the Trade icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/True_Form_icon.png/revision/latest?cb=20120314225004" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="True Form icon.png" data-image-key="True_Form_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/True_Form_icon.png/revision/latest/scale-to-width-down/120?cb=20120314225004" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:True_Form_icon.png" class="galleryfilename galleryfilename-truncate" title="File:True Form icon.png">True Form icon.png</a>
+128 × 128; 37 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Unburrow_icon.png/revision/latest?cb=20150501180822" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Unburrow icon.png" data-image-key="Unburrow_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Unburrow_icon.png/revision/latest/scale-to-width-down/120?cb=20150501180822" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Unburrow_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Unburrow icon.png">Unburrow icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Unleash_icon.png/revision/latest?cb=20211029111900" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Unleash icon.png" data-image-key="Unleash_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Unleash_icon.png/revision/latest/scale-to-width-down/120?cb=20211029111900" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Unleash_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Unleash icon.png">Unleash icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Unrefined_Fireblast_icon.png/revision/latest?cb=20120523231309" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Unrefined Fireblast icon.png" data-image-key="Unrefined_Fireblast_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Unrefined_Fireblast_icon.png/revision/latest/scale-to-width-down/120?cb=20120523231309" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Unrefined_Fireblast_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Unrefined Fireblast icon.png">Unrefined Fireblast icon.png</a>
+128 × 128; 36 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Unstable_Concoction_icon.png/revision/latest?cb=20120801073236" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Unstable Concoction icon.png" data-image-key="Unstable_Concoction_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Unstable_Concoction_icon.png/revision/latest/scale-to-width-down/120?cb=20120801073236" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Unstable_Concoction_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Unstable Concoction icon.png">Unstable Concoction icon.png</a>
+128 × 128; 33 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Unstable_Concoction_Throw_icon.png/revision/latest?cb=20120801073323" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Unstable Concoction Throw icon.png" data-image-key="Unstable_Concoction_Throw_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Unstable_Concoction_Throw_icon.png/revision/latest/scale-to-width-down/120?cb=20120801073323" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Unstable_Concoction_Throw_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Unstable Concoction Throw icon.png">Unstable Concoction Throw icon.png</a>
+128 × 128; 30 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Untouchable_icon.png/revision/latest?cb=20121024233207" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Untouchable icon.png" data-image-key="Untouchable_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Untouchable_icon.png/revision/latest/scale-to-width-down/120?cb=20121024233207" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Untouchable_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Untouchable icon.png">Untouchable icon.png</a>
+128 × 128; 33 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ea/Upheaval_icon.png/revision/latest?cb=20120801080235" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Upheaval icon.png" data-image-key="Upheaval_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ea/Upheaval_icon.png/revision/latest/scale-to-width-down/120?cb=20120801080235" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Upheaval_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Upheaval icon.png">Upheaval icon.png</a>
+128 × 128; 32 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/75/Uproar_%28max%29_icon.png/revision/latest?cb=20220223233219" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Uproar (max) icon.png" data-image-key="Uproar_%28max%29_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/75/Uproar_%28max%29_icon.png/revision/latest/scale-to-width-down/120?cb=20220223233219" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Uproar_(max)_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Uproar (max) icon.png">Uproar (max) icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Uproar_%28none%29_icon.png/revision/latest?cb=20220319003655" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Uproar (none) icon.png" data-image-key="Uproar_%28none%29_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Uproar_%28none%29_icon.png/revision/latest/scale-to-width-down/120?cb=20220319003655" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Uproar_(none)_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Uproar (none) icon.png">Uproar (none) icon.png</a>
+128 × 128; 21 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b8/Uproar_icon.png/revision/latest?cb=20220319003727" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Uproar icon.png" data-image-key="Uproar_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b8/Uproar_icon.png/revision/latest/scale-to-width-down/120?cb=20220319003727" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Uproar_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Uproar icon.png">Uproar icon.png</a>
+128 × 128; 25 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vacuum_icon.png/revision/latest?cb=20130712225949" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Vacuum icon.png" data-image-key="Vacuum_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vacuum_icon.png/revision/latest/scale-to-width-down/120?cb=20130712225949" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Vacuum_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Vacuum icon.png">Vacuum icon.png</a>
+128 × 128; 24 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e4/Vampiric_Aura_icon.png/revision/latest?cb=20151227122238" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Vampiric Aura icon.png" data-image-key="Vampiric_Aura_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e4/Vampiric_Aura_icon.png/revision/latest/scale-to-width-down/120?cb=20151227122238" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Vampiric_Aura_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Vampiric Aura icon.png">Vampiric Aura icon.png</a>
+128 × 128; 32 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Vendetta_icon.png/revision/latest?cb=20120810051546" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Vendetta icon.png" data-image-key="Vendetta_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Vendetta_icon.png/revision/latest/scale-to-width-down/120?cb=20120810051546" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Vendetta_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Vendetta icon.png">Vendetta icon.png</a>
+128 × 128; 36 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vengeance_Aura_icon.png/revision/latest?cb=20111006074537" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Vengeance Aura icon.png" data-image-key="Vengeance_Aura_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vengeance_Aura_icon.png/revision/latest/scale-to-width-down/120?cb=20111006074537" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Vengeance_Aura_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Vengeance Aura icon.png">Vengeance Aura icon.png</a>
+128 × 128; 27 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Venomous_Gale_icon.png/revision/latest?cb=20111006074651" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Venomous Gale icon.png" data-image-key="Venomous_Gale_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Venomous_Gale_icon.png/revision/latest/scale-to-width-down/120?cb=20111006074651" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Venomous_Gale_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Venomous Gale icon.png">Venomous Gale icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Viper_Strike_icon.png/revision/latest?cb=20111006074746" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Viper Strike icon.png" data-image-key="Viper_Strike_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Viper_Strike_icon.png/revision/latest/scale-to-width-down/120?cb=20111006074746" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Viper_Strike_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Viper Strike icon.png">Viper Strike icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Viscous_Nasal_Goo_icon.png/revision/latest?cb=20130328004332" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Viscous Nasal Goo icon.png" data-image-key="Viscous_Nasal_Goo_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Viscous_Nasal_Goo_icon.png/revision/latest/scale-to-width-down/120?cb=20130328004332" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Viscous_Nasal_Goo_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Viscous Nasal Goo icon.png">Viscous Nasal Goo icon.png</a>
+128 × 128; 25 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Void_icon.png/revision/latest?cb=20111006060721" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Void icon.png" data-image-key="Void_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Void_icon.png/revision/latest/scale-to-width-down/120?cb=20111006060721" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Void_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Void icon.png">Void icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Voodoo_Restoration_icon.png/revision/latest?cb=20111005194655" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Voodoo Restoration icon.png" data-image-key="Voodoo_Restoration_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Voodoo_Restoration_icon.png/revision/latest/scale-to-width-down/120?cb=20111005194655" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Voodoo_Restoration_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Voodoo Restoration icon.png">Voodoo Restoration icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Voodoo_Switcheroo_icon.png/revision/latest?cb=20201219004809" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Voodoo Switcheroo icon.png" data-image-key="Voodoo_Switcheroo_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Voodoo_Switcheroo_icon.png/revision/latest/scale-to-width-down/120?cb=20201219004809" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Voodoo_Switcheroo_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Voodoo Switcheroo icon.png">Voodoo Switcheroo icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c6/Wall_of_Replica_icon.png/revision/latest?cb=20130712225928" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Wall of Replica icon.png" data-image-key="Wall_of_Replica_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c6/Wall_of_Replica_icon.png/revision/latest/scale-to-width-down/120?cb=20130712225928" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wall_of_Replica_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Wall of Replica icon.png">Wall of Replica icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Walrus_Kick_icon.png/revision/latest?cb=20150428163727" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Walrus Kick icon.png" data-image-key="Walrus_Kick_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Walrus_Kick_icon.png/revision/latest/scale-to-width-down/120?cb=20150428163727" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Walrus_Kick_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Walrus Kick icon.png">Walrus Kick icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Walrus_Punch_icon.png/revision/latest?cb=20130228053017" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Walrus Punch icon.png" data-image-key="Walrus_Punch_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Walrus_Punch_icon.png/revision/latest/scale-to-width-down/120?cb=20130228053017" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Walrus_Punch_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Walrus Punch icon.png">Walrus Punch icon.png</a>
+128 × 128; 33 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Waning_Rift_icon.png/revision/latest?cb=20111006061013" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Waning Rift icon.png" data-image-key="Waning_Rift_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Waning_Rift_icon.png/revision/latest/scale-to-width-down/120?cb=20111006061013" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Waning_Rift_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Waning Rift icon.png">Waning Rift icon.png</a>
+128 × 128; 37 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Warcry_icon.png/revision/latest?cb=20111006073709" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Warcry icon.png" data-image-key="Warcry_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Warcry_icon.png/revision/latest/scale-to-width-down/120?cb=20111006073709" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Warcry_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Warcry icon.png">Warcry icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Warpath_icon.png/revision/latest?cb=20130328004438" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Warpath icon.png" data-image-key="Warpath_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Warpath_icon.png/revision/latest/scale-to-width-down/120?cb=20130328004438" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Warpath_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Warpath icon.png">Warpath icon.png</a>
+128 × 128; 27 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Wave_of_Terror_icon.png/revision/latest?cb=20111006074535" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Wave of Terror icon.png" data-image-key="Wave_of_Terror_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Wave_of_Terror_icon.png/revision/latest/scale-to-width-down/120?cb=20111006074535" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wave_of_Terror_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Wave of Terror icon.png">Wave of Terror icon.png</a>
+128 × 128; 27 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Waveform_icon.png/revision/latest?cb=20121015185523" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Waveform icon.png" data-image-key="Waveform_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Waveform_icon.png/revision/latest/scale-to-width-down/120?cb=20121015185523" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Waveform_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Waveform icon.png">Waveform icon.png</a>
+128 × 128; 32 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Wex_icon.png/revision/latest?cb=20120801074309" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Wex icon.png" data-image-key="Wex_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Wex_icon.png/revision/latest/scale-to-width-down/120?cb=20120801074309" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wex_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Wex icon.png">Wex icon.png</a>
+128 × 128; 36 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Whirling_Axes_%28Melee%29_icon.png/revision/latest?cb=20130123212109" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Whirling Axes (Melee) icon.png" data-image-key="Whirling_Axes_%28Melee%29_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Whirling_Axes_%28Melee%29_icon.png/revision/latest/scale-to-width-down/120?cb=20130123212109" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Whirling_Axes_(Melee)_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Whirling Axes (Melee) icon.png">Whirling Axes (Melee) icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Whirling_Axes_%28Ranged%29_icon.png/revision/latest?cb=20130123212005" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Whirling Axes (Ranged) icon.png" data-image-key="Whirling_Axes_%28Ranged%29_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Whirling_Axes_%28Ranged%29_icon.png/revision/latest/scale-to-width-down/120?cb=20130123212005" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Whirling_Axes_(Ranged)_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Whirling Axes (Ranged) icon.png">Whirling Axes (Ranged) icon.png</a>
+128 × 128; 32 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Whirling_Axes_icon.png/revision/latest?cb=20170811104507" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Whirling Axes icon.png" data-image-key="Whirling_Axes_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Whirling_Axes_icon.png/revision/latest/scale-to-width-down/120?cb=20170811104507" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Whirling_Axes_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Whirling Axes icon.png">Whirling Axes icon.png</a>
+128 × 128; 30 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Whirling_Death_icon.png/revision/latest?cb=20121212234809" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Whirling Death icon.png" data-image-key="Whirling_Death_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Whirling_Death_icon.png/revision/latest/scale-to-width-down/120?cb=20121212234809" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Whirling_Death_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Whirling Death icon.png">Whirling Death icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Wild_Axes_icon.png/revision/latest?cb=20121003222437" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Wild Axes icon.png" data-image-key="Wild_Axes_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Wild_Axes_icon.png/revision/latest/scale-to-width-down/120?cb=20121003222437" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wild_Axes_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Wild Axes icon.png">Wild Axes icon.png</a>
+128 × 128; 31 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Will-O-Wisp_icon.png/revision/latest?cb=20181124185951" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Will-O-Wisp icon.png" data-image-key="Will-O-Wisp_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Will-O-Wisp_icon.png/revision/latest/scale-to-width-down/120?cb=20181124185951" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Will-O-Wisp_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Will-O-Wisp icon.png">Will-O-Wisp icon.png</a>
+128 × 128; 34 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Windrun_icon.png/revision/latest?cb=20111006075121" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Windrun icon.png" data-image-key="Windrun_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Windrun_icon.png/revision/latest/scale-to-width-down/120?cb=20111006075121" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Windrun_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Windrun icon.png">Windrun icon.png</a>
+128 × 128; 33 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Winter%27s_Curse_icon.png/revision/latest?cb=20150211182919" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Winter's Curse icon.png" data-image-key="Winter%27s_Curse_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Winter%27s_Curse_icon.png/revision/latest/scale-to-width-down/120?cb=20150211182919" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Winter%27s_Curse_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Winter's Curse icon.png">Winter's Curse icon.png</a>
+128 × 128; 30 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Wolf_Bite_icon.png/revision/latest?cb=20191208161044" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Wolf Bite icon.png" data-image-key="Wolf_Bite_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Wolf_Bite_icon.png/revision/latest/scale-to-width-down/120?cb=20191208161044" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wolf_Bite_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Wolf Bite icon.png">Wolf Bite icon.png</a>
+128 × 128; 29 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Work_Horse_icon.png/revision/latest?cb=20230809035455" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Work Horse icon.png" data-image-key="Work_Horse_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Work_Horse_icon.png/revision/latest/scale-to-width-down/120?cb=20230809035455" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Work_Horse_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Work Horse icon.png">Work Horse icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Wraithfire_Blast_icon.png/revision/latest?cb=20131212005909" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Wraithfire Blast icon.png" data-image-key="Wraithfire_Blast_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Wraithfire_Blast_icon.png/revision/latest/scale-to-width-down/120?cb=20131212005909" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wraithfire_Blast_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Wraithfire Blast icon.png">Wraithfire Blast icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Wrath_of_Nature_icon.png/revision/latest?cb=20111006060324" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Wrath of Nature icon.png" data-image-key="Wrath_of_Nature_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Wrath_of_Nature_icon.png/revision/latest/scale-to-width-down/120?cb=20111006060324" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wrath_of_Nature_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Wrath of Nature icon.png">Wrath of Nature icon.png</a>
+128 × 128; 35 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Wukong%27s_Command_icon.png/revision/latest?cb=20161211203746" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="Wukong's Command icon.png" data-image-key="Wukong%27s_Command_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Wukong%27s_Command_icon.png/revision/latest/scale-to-width-down/120?cb=20161211203746" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:Wukong%27s_Command_icon.png" class="galleryfilename galleryfilename-truncate" title="File:Wukong's Command icon.png">Wukong's Command icon.png</a>
+128 × 128; 38 KB<br>
+
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/X_Marks_the_Spot_icon.png/revision/latest?cb=20111005120056" class="image"><img alt="" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" decoding="async" loading="lazy" width="120" height="120" data-image-name="X Marks the Spot icon.png" data-image-key="X_Marks_the_Spot_icon.png" data-relevant="0" data-src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/X_Marks_the_Spot_icon.png/revision/latest/scale-to-width-down/120?cb=20111005120056" class="lazyload"></a></div></div>
+			<div class="gallerytext">
+<a href="/wiki/File:X_Marks_the_Spot_icon.png" class="galleryfilename galleryfilename-truncate" title="File:X Marks the Spot icon.png">X Marks the Spot icon.png</a>
+128 × 128; 28 KB<br>
+
+			</div>
+		</div></li>
+</ul>
