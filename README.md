@@ -6,6 +6,12 @@
 
 A collection of useful scripts for accomplishing everyday tasks. Each script is designed to solve specific problems and includes detailed documentation.
 
+## Table of contents
+
+- [Image and Audio to Video Converter](#image-and-audio-to-video-converter)
+- [PNG Link Extractor and Downloader](#png-link-extractor-and-downloader)
+- [Getting Started](#getting-started)
+
 ## Available Scripts
 
 ### [Image and Audio to Video Converter](create_movie_from_and_image_and_audio/README.md)
@@ -44,15 +50,8 @@ Each script has its own directory with:
 
 Click on the link above to view the specific documentation for the script.
 
-## Contributing
+---
 
-Feel free to contribute to this collection by:
+## Thank You <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="20" height="20" />
 
-1. Adding new useful scripts
-2. Improving existing scripts
-3. Adding better documentation
-4. Fixing bugs
-
-## License
-
-This project is open source and available under the MIT License.
+Thank you for exploring this collection of useful bash scripts! I hope you find these scripts helpful for your everyday tasks. Feel free to contribute by adding new scripts, improving existing ones, adding better documentation, or fixing bugs. This project is open source and available under the MIT License.
