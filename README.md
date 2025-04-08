@@ -1,5 +1,9 @@
 # Useful Bash Scripts
 
+<div align="center">
+  <img src="header.png" alt="drawing" width="600"/>
+</div>
+
 A collection of useful scripts for accomplishing everyday tasks. Each script is designed to solve specific problems and includes detailed documentation.
 
 ## Available Scripts
